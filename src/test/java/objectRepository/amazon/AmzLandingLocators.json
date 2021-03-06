@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Amz-Landing-SearchButton",
+    "page": "Landing",
+    "type": "id",
+    "value": "twotabsearchtextbox"
+  },
+  {
+    "name": "Amz-Landing-SearchSubmitButton",
+    "page": "Landing",
+    "type": "id",
+    "value": "nav-search-submit-button"
+  }
+]

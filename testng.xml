@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="resources.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Feature Test">
+        <classes>
+            <class name="tests.AmzChallengeTests"></class>
+        </classes>
+    </test>
+</suite>
